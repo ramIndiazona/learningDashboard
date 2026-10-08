@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Learning Dashboard</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Sign in to continue learning</string>
+    <string name="login_email_label">Email</string>
+    <string name="login_password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="login_signing_in">Signing in…</string>
+    <string name="login_demo_hint">Demo credentials: %1$s / %2$s</string>
+    <string name="demo_email">demo@learning.app</string>
+    <string name="demo_password">demo1234</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Course Dashboard</string>
+    <string name="dashboard_retry">Retry</string>
+    <string name="dashboard_empty_title">No courses yet</string>
+    <string name="dashboard_empty_message">Courses will appear here as soon as they are available.</string>
+    <string name="dashboard_offline_notice">Couldn\'t refresh. Showing saved courses.</string>
+
+    <!-- Course card -->
+    <string name="course_progress_percent">%1$d%%</string>
+    <plurals name="course_lessons_count">
+        <item quantity="one">%d lesson</item>
+        <item quantity="other">%d lessons</item>
+    </plurals>
+    <string name="course_continue">Continue</string>
+
+    <!-- Course details -->
+    <string name="course_details_title">Course Details</string>
+    <string name="course_progress_label">Current progress</string>
+    <plurals name="course_lessons_summary">
+        <item quantity="one">%1$d of %2$d lessons completed</item>
+        <item quantity="other">%1$d of %2$d lessons completed</item>
+    </plurals>
+    <string name="lesson_completed">Completed</string>
+    <string name="lesson_pending">Pending</string>
+    <string name="lesson_mark_complete">Mark complete</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_back">Back</string>
+    <string name="cd_refresh">Refresh courses</string>
+    <string name="cd_debug_api_mode">API mode: %1$s. Tap to change.</string>
+    <string name="debug_mode_normal">Normal</string>
+    <string name="debug_mode_failure">Failure</string>
+    <string name="debug_mode_empty">Empty</string>
+</resources>

@@ -1,0 +1,33 @@
+[
+  { "id": 101, "courseId": 1, "title": "Introduction", "sortOrder": 1, "completed": true },
+  { "id": 102, "courseId": 1, "title": "Setting Up Your Environment", "sortOrder": 2, "completed": true },
+  { "id": 103, "courseId": 1, "title": "Variables & Data Types", "sortOrder": 3, "completed": true },
+  { "id": 104, "courseId": 1, "title": "Operators & Expressions", "sortOrder": 4, "completed": true },
+  { "id": 105, "courseId": 1, "title": "Control Flow: if Statements", "sortOrder": 5, "completed": true },
+  { "id": 106, "courseId": 1, "title": "Loops: for and while", "sortOrder": 6, "completed": true },
+  { "id": 107, "courseId": 1, "title": "Functions & Scope", "sortOrder": 7, "completed": true },
+  { "id": 108, "courseId": 1, "title": "Lists & Tuples", "sortOrder": 8, "completed": true },
+  { "id": 109, "courseId": 1, "title": "Dictionaries & Sets", "sortOrder": 9, "completed": true },
+  { "id": 110, "courseId": 1, "title": "String Manipulation", "sortOrder": 10, "completed": true },
+  { "id": 111, "courseId": 1, "title": "Files & Exception Handling", "sortOrder": 11, "completed": true },
+  { "id": 112, "courseId": 1, "title": "Modules & Packages", "sortOrder": 12, "completed": true },
+  { "id": 113, "courseId": 1, "title": "Object-Oriented Programming", "sortOrder": 13, "completed": true },
+  { "id": 114, "courseId": 1, "title": "Inheritance & Polymorphism", "sortOrder": 14, "completed": false },
+  { "id": 115, "courseId": 1, "title": "Decorators", "sortOrder": 15, "completed": false },
+  { "id": 116, "courseId": 1, "title": "Generators & Iterators", "sortOrder": 16, "completed": false },
+  { "id": 117, "courseId": 1, "title": "Regular Expressions", "sortOrder": 17, "completed": false },
+  { "id": 118, "courseId": 1, "title": "Testing with pytest", "sortOrder": 18, "completed": false },
+  { "id": 119, "courseId": 1, "title": "Working with Databases", "sortOrder": 19, "completed": false },
+  { "id": 120, "courseId": 1, "title": "Final Project: Command-Line App", "sortOrder": 20, "completed": false },
+
+  { "id": 201, "courseId": 2, "title": "Introduction to Generative AI", "sortOrder": 1, "completed": true },
+  { "id": 202, "courseId": 2, "title": "Prompt Engineering", "sortOrder": 2, "completed": true },
+  { "id": 203, "courseId": 2, "title": "Understanding Large Language Models", "sortOrder": 3, "completed": false },
+  { "id": 204, "courseId": 2, "title": "Building AI-Powered Applications", "sortOrder": 4, "completed": false },
+  { "id": 205, "courseId": 2, "title": "Responsible AI & Safety", "sortOrder": 5, "completed": false },
+
+  { "id": 301, "courseId": 3, "title": "HTML & CSS Foundations", "sortOrder": 1, "completed": true },
+  { "id": 302, "courseId": 3, "title": "JavaScript Essentials", "sortOrder": 2, "completed": false },
+  { "id": 303, "courseId": 3, "title": "REST APIs with Node.js", "sortOrder": 3, "completed": false },
+  { "id": 304, "courseId": 3, "title": "React Frontend Development", "sortOrder": 4, "completed": false }
+]
